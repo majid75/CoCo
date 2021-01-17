@@ -11,7 +11,7 @@ or manually follow the instructions inside the compile.sh file. After compilatio
 the generated runnable CoCo file can be used for solving TTP instances.
 
 To solve a TTP instance, e.g. "a280_n279_bounded-strongly-corr_01.ttp" located in 
-"data/a280-ttp/" subdirectory with 600 seconds as the timeout run the following 
+"data/a280-ttp/" subdirectory with 600 seconds as the timeout value, run the following 
 command:
 
 $ ./CoCo a280_n279_bounded-strongly-corr_01 600
